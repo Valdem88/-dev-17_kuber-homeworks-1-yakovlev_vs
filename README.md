@@ -174,6 +174,8 @@ and check to make sure that only the key(s) you wanted were added.
 2. Настроить локально подключение к кластеру
 3. Подключиться к дашборду с помощью port-forward
 
+#### Решение
+
 - 1 
 
 ```bash
